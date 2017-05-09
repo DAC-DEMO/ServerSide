@@ -1,0 +1,7 @@
+1. Run your first hello world using nodejs.
+2. Understand your local variable and function. 
+3. How to execution function at nodejs.
+4. Debug your program. 
+5. Export and Import second program. 
+6. Debug the second program.
+7. Third program. and export more than one method/variables. (Do Debug.)
