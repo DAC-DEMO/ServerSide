@@ -5,3 +5,5 @@
 5. Export and Import second program. 
 6. Debug the second program.
 7. Third program. and export more than one method/variables. (Do Debug.)
+8. Export as json object, everything.
+9. Function as Template as in java class.

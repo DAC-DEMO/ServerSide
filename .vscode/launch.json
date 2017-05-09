@@ -6,6 +6,12 @@
     "configurations": [{
             "type": "node",
             "request": "launch",
+            "name": "TEMPLATE",
+            "program": "${workspaceRoot}/template.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "FIRST",
             "program": "${workspaceRoot}/first.js"
         },
