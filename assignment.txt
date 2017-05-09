@@ -7,3 +7,9 @@
 7. Third program. and export more than one method/variables. (Do Debug.)
 8. Export as json object, everything.
 9. Function as Template as in java class.
+
+10. NPM commands
+    npm init
+    npm install lite-server --save
+
+11. https://github.com/johnpapa/lite-server    
