@@ -1,0 +1,22 @@
+{
+  "name": "servercode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fifth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DAC-DEMO/ServerSide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DAC-DEMO/ServerSide/issues"
+  },
+  "homepage": "https://github.com/DAC-DEMO/ServerSide#readme",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  }
+}

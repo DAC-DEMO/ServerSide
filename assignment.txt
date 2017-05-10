@@ -5,6 +5,8 @@
 4. Advance Array Operations (with objects)
 5. https://nodejs.org/dist/latest-v7.x/docs/api/globals.html
 6. Read File, Understand Asynchronous Nature. And Debug it. 
+7. Connect with database.
+8. https://github.com/mysqljs/mysql
 
 
 2017-05-09
