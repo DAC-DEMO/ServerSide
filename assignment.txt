@@ -1,3 +1,13 @@
+2017-05-10
+1. https://www.w3schools.com/jsref/jsref_obj_array.asp
+2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice?v=control
+3. Basic Array program
+4. Advance Array Operations (with objects)
+5. https://nodejs.org/dist/latest-v7.x/docs/api/globals.html
+6. Read File, Understand Asynchronous Nature. And Debug it. 
+
+
+2017-05-09
 1. Run your first hello world using nodejs.
 2. Understand your local variable and function. 
 3. How to execution function at nodejs.
@@ -13,3 +23,5 @@
     npm install lite-server --save
 
 11. https://github.com/johnpapa/lite-server    
+
+

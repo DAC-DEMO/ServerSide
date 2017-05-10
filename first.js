@@ -1,23 +1,21 @@
-var ref = require("./second");
-var third = require("./third");
-var fifth = require("./fifth");
+var ref = require("./six");
+var seventh = require('./seventh');
 
-var status = false;
+seventh.readSomeFile();
 
-ref();
-third.tm1();
+console.log(ref.commentList);
 
-// accessing fifth
-console.log(fifth.name);
-fifth.option1();
+var comment = "Hello World!!";
+ref.addComment(comment);
 
-function weatherApi() {
-    var i = 2;
-    var name = "CDAC-2";
+var index = ref.searchComment(comment);
+console.log(index);
 
-    console.log(i);
-    console.log(name);
-}
+var newComment = "Hello Universe";
+ref.updateComment(comment, newComment);
 
 
-weatherApi();
+ref.deleteComment(newComment);
+
+
+console.log(ref.commentList);
