@@ -1,3 +1,3 @@
 var first = require('./first');
 
-first.selectFromTable();
+first.insertMultipleRecords();
