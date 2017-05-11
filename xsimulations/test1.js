@@ -2,7 +2,7 @@ var mysql = require('mysql');
 
 module.exports = {
 
-    "selectFromTable": function() {
+    "selectFromTable": function(callback) {
 
         // SETP 2
         var config = {
@@ -25,6 +25,8 @@ module.exports = {
 
             // STEP LAST
             connection.end();
+
+            callback(results);
         });
 
 

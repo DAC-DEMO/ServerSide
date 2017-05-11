@@ -4,9 +4,22 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [{
-        "type": "node",
-        "request": "launch",
-        "name": "MAIN",
-        "program": "${workspaceRoot}/main.js"
-    }]
+            "type": "node",
+            "request": "launch",
+            "name": "Day14 Main",
+            "program": "${workspaceRoot}/day14/main.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "XMAIN",
+            "program": "${workspaceRoot}/xsimulations/main.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "MAIN",
+            "program": "${workspaceRoot}/main.js"
+        }
+    ]
 }
