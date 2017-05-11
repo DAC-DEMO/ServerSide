@@ -1,3 +1,11 @@
+2017-05-11
+1. Select All, apply where condition
+2. Insertion, Insert Multiple Record
+3. Update
+4. Delete
+
+
+
 2017-05-10
 1. https://www.w3schools.com/jsref/jsref_obj_array.asp
 2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice?v=control

@@ -120,12 +120,14 @@ module.exports = {
 
         var sql = "INSERT INTO USER (NAME,EMAIL,MOBILE) VALUES ?";
 
-        var params = [
-            ['ABC', 'XYZ@Z.COM', '000'],
-            ['ABC', 'XYZ@Z.COM', '000']
+        var mulipleRecord = [
+            ['subh', 'XYZ@Z.COM', '000'],
+            ['labh', 'XYZ@Z.COM', '000']
         ];
 
-        connection.query(sql, [params], function(err, data) {
+        var params = [mulipleRecord];
+
+        connection.query(sql, params, function(err, data) {
             if (!err) {
                 console.log(data);
             }
